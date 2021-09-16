@@ -1,6 +1,6 @@
 # Getting started with data analysis in Python
 
-Toutorial at EITN Autumn School
+Tutorial at EITN Autumn School
 
 15/09/2021
 

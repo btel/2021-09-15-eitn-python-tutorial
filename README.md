@@ -15,5 +15,6 @@ Some of the examples were taken from ["Plotting and Programming in Python"](http
 ## Content
 
 * lecture notes (jupyter notebook): [intro_python.ipynb](intro_python.ipynb)
+* delivered presentation (jupyter notebook): [intro_python_delivered.ipynb](intro_python_delivered.ipynb)
 * lecture notes (pdf): [intro_python.pdf](intro_python.pdf)
 * lecture website (html): https://btel.github.io/2021-09-15-eitn-python-tutorial/

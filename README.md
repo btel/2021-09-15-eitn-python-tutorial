@@ -11,3 +11,8 @@ This work is marked with CC0 1.0. To view a copy of this license, visit http://c
 
 
 Some of the examples were taken from ["Plotting and Programming in Python"](http://swcarpentry.github.io/python-novice-gapminder/index.html) by [The Carpentries](https://carpentries.org/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Content
+
+* lecture notes (jupyter notebook): [intro_python.ipynb](intro_python.ipynb)
+* lecture notes (pdf): [intro_python.pdf](intro_python.pdf)
